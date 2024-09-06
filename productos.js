@@ -1,3 +1,5 @@
+//el siguiente comando debe ponerse en mongosh
+use tiendaOnline
 // Insertar productos en la colección "productos"
 db.productos.insertMany([
     {
